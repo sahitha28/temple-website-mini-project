@@ -1,0 +1,33 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 500px;
+    width: 950px;
+    background-color: yellow;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display:flex;
+}
+.conat1{
+    height:500px ;
+    width:500px;
+    background-color: yellow; 
+}
+.conat1 input{
+    margin: 5px; 
+}
+.imag img{
+    height:500px;
+    width: 450px;
+}
+.conat1 select{
+    margin: 10px 0;
+    width: 243px;
+    height: 37px;
+}
+.conat1 button{
+    background-color: orange;
+}

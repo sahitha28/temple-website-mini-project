@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    height:550px;
+    width:950px ;
+    background-color: antiquewhite;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+}
+.imgdiv img{
+    width: 250px;
+}
+.contactdiv{
+    width:583px ;
+    height:550px;
+    background-color: white;  
+     
+}
+.control{
+    display: flex;
+}
+.contactdiv1{
+    width: 270px;
+    height: 250px;
+    background-color: blue;
+}
+.contactdiv2{
+    width:270px;
+    height: 250px;
+    background-color: blue;
+}
